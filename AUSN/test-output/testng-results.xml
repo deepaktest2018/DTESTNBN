@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="60751" started-at="2018-02-19T07:10:14Z" finished-at="2018-02-19T07:11:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="60751" started-at="2018-02-19T07:10:14Z" finished-at="2018-02-19T07:11:15Z">
+      <class name="com.Testcases.TestPage">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.Testcases.TestPage@5d5eef3d]" name="init" is-config="true" duration-ms="454" started-at="2018-02-19T12:40:14Z" finished-at="2018-02-19T12:40:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.Testcases.TestPage@5d5eef3d]" name="beforeTest" is-config="true" duration-ms="9914" started-at="2018-02-19T12:40:14Z" finished-at="2018-02-19T12:40:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:com.Testcases.TestPage@5d5eef3d]" name="Login" duration-ms="23878" started-at="2018-02-19T12:40:24Z" finished-at="2018-02-19T12:40:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.Testcases.TestPage@5d5eef3d]" name="beforeTest" is-config="true" duration-ms="2915" started-at="2018-02-19T12:40:48Z" finished-at="2018-02-19T12:40:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="Test2()[pri:0, instance:com.Testcases.TestPage@5d5eef3d]" name="Test2" duration-ms="22464" started-at="2018-02-19T12:40:51Z" finished-at="2018-02-19T12:41:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method status="PASS" signature="AfterTest()[pri:0, instance:com.Testcases.TestPage@5d5eef3d]" name="AfterTest" is-config="true" duration-ms="1003" started-at="2018-02-19T12:41:14Z" finished-at="2018-02-19T12:41:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.Testcases.TestPage@5d5eef3d]" name="afterTest" is-config="true" duration-ms="87" started-at="2018-02-19T12:41:15Z" finished-at="2018-02-19T12:41:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.Testcases.TestPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
